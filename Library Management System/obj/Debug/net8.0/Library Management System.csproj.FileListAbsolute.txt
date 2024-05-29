@@ -1,0 +1,67 @@
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.csproj.AssemblyReference.cache
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.MvcApplicationPartsAssemblyInfo.cs
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+A:\C#\Library Management System\bin\Debug\net8.0\msvcp140.dll
+A:\C#\Library Management System\bin\Debug\net8.0\vcruntime140.dll
+A:\C#\Library Management System\bin\Debug\net8.0\vcruntime140_1.dll
+A:\C#\Library Management System\bin\Debug\net8.0\appsettings.Development.json
+A:\C#\Library Management System\bin\Debug\net8.0\appsettings.json
+A:\C#\Library Management System\bin\Debug\net8.0\Library Management System.exe
+A:\C#\Library Management System\bin\Debug\net8.0\Library Management System.deps.json
+A:\C#\Library Management System\bin\Debug\net8.0\Library Management System.runtimeconfig.json
+A:\C#\Library Management System\bin\Debug\net8.0\Library Management System.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Library Management System.pdb
+A:\C#\Library Management System\bin\Debug\net8.0\Azure.Core.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Bogus.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Elasticsearch.Net.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Nest.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\C#\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Memory.Data.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+A:\C#\Library Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\C#\Library Management System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets.build.json
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets.development.json
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.Library Management System.Microsoft.AspNetCore.StaticWebAssets.props
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Library Management System.props
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Library Management System.props
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Library Management System.props
+A:\C#\Library Management System\obj\Debug\net8.0\staticwebassets.pack.json
+A:\C#\Library Management System\obj\Debug\net8.0\scopedcss\bundle\Library Management System.styles.css
+A:\C#\Library Management System\obj\Debug\net8.0\Library .F7D87690.Up2Date
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.dll
+A:\C#\Library Management System\obj\Debug\net8.0\refint\Library Management System.dll
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.pdb
+A:\C#\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+A:\C#\Library Management System\obj\Debug\net8.0\ref\Library Management System.dll
